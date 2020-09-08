@@ -8,6 +8,6 @@
 <p align="center">
 <a href="https://github.com/gbretas5">
 <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbretas5&layout=compact" />
-<img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=gbretas5&show_icons=true" />
+<img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=gbretas5&show_icons=true&count_private=true" />
 </a>
 </p>
