@@ -1,16 +1,13 @@
-### Hi there 👋
+# Gustavo Bretas
 
-<!--
-**gbretas5/gbretas5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gbretas5/)](https://www.linkedin.com/in/gbretas5/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavobretas5@gmail.com)](mailto:gustavobretas5@gmail.com)
 
-Here are some ideas to get you started:
+"A criatividade é permitir a si mesmo cometer erros, a arte é saber quais erros manter."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://github.com/gbretas5">
+<img height="170em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbretas5&layout=compact" />
+<img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=gbretas5&show_icons=true" />
+</a>
+</p>
