@@ -15,3 +15,5 @@
 <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=gbretas&show_icons=true&count_private=true" />
 </a>
 </p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=gbretas)](https://git.io/streak-stats)
